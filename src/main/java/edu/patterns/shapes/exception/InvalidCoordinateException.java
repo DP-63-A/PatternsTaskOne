@@ -1,2 +1,9 @@
-package edu.patterns.shapes.exception;public class InvalidCoordinateException {
+package edu.patterns.shapes.exception;
+
+import java.io.IOException;
+
+public class InvalidCoordinateException extends IOException {
+    public InvalidCoordinateException(String message) {
+        super(message);
+    }
 }

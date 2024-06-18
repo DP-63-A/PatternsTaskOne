@@ -1,0 +1,517 @@
+2024-05-18 00:15:33 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:15:33 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:15:33 INFO  CubeState:28 - Cube is detected as REGULAR.
+2024-05-18 00:15:33 WARN  CubeState:89 - Cube №1 is regular
+2024-05-18 00:15:33 INFO  Cube:29 - Cube with id 1 and coordinates [{x=0,00, y=0,00, z=0,00}, {x=0,00, y=40,00, z=0,00}, {x=40,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=40,00}, {x=40,00, y=40,00, z=0,00}, {x=40,00, y=0,00, z=40,00}, {x=40,00, y=40,00, z=40,00}, {x=0,00, y=40,00, z=40,00}] is created
+2024-05-18 00:15:33 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:15:33 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:15:33 INFO  CubeState:28 - Cube is detected as REGULAR.
+2024-05-18 00:15:33 WARN  CubeState:89 - Cube №1 is regular
+2024-05-18 00:15:33 WARN  CubeFactoryImpl:55 - Regular cube added: Cube[id=1, coordinates=[{x=0,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=40,00}, {x=0,00, y=40,00, z=0,00}, {x=0,00, y=40,00, z=40,00}, {x=40,00, y=0,00, z=0,00}, {x=40,00, y=0,00, z=40,00}, {x=40,00, y=40,00, z=0,00}, {x=40,00, y=40,00, z=40,00}], state=REGULAR]
+2024-05-18 00:15:33 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:15:33 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:15:33 INFO  CubeState:28 - Cube is detected as REGULAR.
+2024-05-18 00:15:33 WARN  CubeState:89 - Cube №2 is regular
+2024-05-18 00:15:33 INFO  Cube:29 - Cube with id 2 and coordinates [{x=0,00, y=0,00, z=0,00}, {x=0,00, y=15,00, z=0,00}, {x=15,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=15,00}, {x=15,00, y=15,00, z=0,00}, {x=15,00, y=0,00, z=15,00}, {x=15,00, y=15,00, z=15,00}, {x=0,00, y=15,00, z=15,00}] is created
+2024-05-18 00:15:33 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:15:33 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:15:33 INFO  CubeState:28 - Cube is detected as REGULAR.
+2024-05-18 00:15:33 WARN  CubeState:89 - Cube №2 is regular
+2024-05-18 00:15:33 WARN  CubeFactoryImpl:55 - Regular cube added: Cube[id=2, coordinates=[{x=0,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=15,00}, {x=0,00, y=15,00, z=0,00}, {x=0,00, y=15,00, z=15,00}, {x=15,00, y=0,00, z=0,00}, {x=15,00, y=0,00, z=15,00}, {x=15,00, y=15,00, z=0,00}, {x=15,00, y=15,00, z=15,00}], state=REGULAR]
+2024-05-18 00:15:33 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:15:33 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:15:33 INFO  CubeState:28 - Cube is detected as REGULAR.
+2024-05-18 00:15:33 WARN  CubeState:89 - Cube №3 is regular
+2024-05-18 00:15:33 INFO  Cube:29 - Cube with id 3 and coordinates [{x=0,00, y=0,00, z=0,00}, {x=0,00, y=22,00, z=0,00}, {x=22,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=22,00}, {x=22,00, y=22,00, z=0,00}, {x=22,00, y=0,00, z=22,00}, {x=22,00, y=22,00, z=22,00}, {x=0,00, y=22,00, z=22,00}] is created
+2024-05-18 00:15:33 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:15:33 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:15:33 INFO  CubeState:28 - Cube is detected as REGULAR.
+2024-05-18 00:15:33 WARN  CubeState:89 - Cube №3 is regular
+2024-05-18 00:15:33 WARN  CubeFactoryImpl:55 - Regular cube added: Cube[id=3, coordinates=[{x=0,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=22,00}, {x=0,00, y=22,00, z=0,00}, {x=0,00, y=22,00, z=22,00}, {x=22,00, y=0,00, z=0,00}, {x=22,00, y=0,00, z=22,00}, {x=22,00, y=22,00, z=0,00}, {x=22,00, y=22,00, z=22,00}], state=REGULAR]
+2024-05-18 00:15:33 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:15:33 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:15:33 INFO  CubeState:28 - Cube is detected as REGULAR.
+2024-05-18 00:15:33 WARN  CubeState:89 - Cube №4 is regular
+2024-05-18 00:15:33 INFO  Cube:29 - Cube with id 4 and coordinates [{x=0,00, y=0,00, z=0,00}, {x=0,00, y=3,00, z=0,00}, {x=3,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=3,00}, {x=3,00, y=3,00, z=0,00}, {x=3,00, y=0,00, z=3,00}, {x=3,00, y=3,00, z=3,00}, {x=0,00, y=3,00, z=3,00}] is created
+2024-05-18 00:15:33 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:15:33 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:15:33 INFO  CubeState:28 - Cube is detected as REGULAR.
+2024-05-18 00:15:33 WARN  CubeState:89 - Cube №4 is regular
+2024-05-18 00:15:33 WARN  CubeFactoryImpl:55 - Regular cube added: Cube[id=4, coordinates=[{x=0,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=3,00}, {x=0,00, y=3,00, z=0,00}, {x=0,00, y=3,00, z=3,00}, {x=3,00, y=0,00, z=0,00}, {x=3,00, y=0,00, z=3,00}, {x=3,00, y=3,00, z=0,00}, {x=3,00, y=3,00, z=3,00}], state=REGULAR]
+2024-05-18 00:15:33 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:15:33 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:15:33 INFO  CubeState:28 - Cube is detected as REGULAR.
+2024-05-18 00:15:33 WARN  CubeState:89 - Cube №5 is regular
+2024-05-18 00:15:33 INFO  Cube:29 - Cube with id 5 and coordinates [{x=0,00, y=0,00, z=0,00}, {x=0,00, y=63,00, z=0,00}, {x=63,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=63,00}, {x=63,00, y=63,00, z=0,00}, {x=63,00, y=0,00, z=63,00}, {x=63,00, y=63,00, z=63,00}, {x=0,00, y=63,00, z=63,00}] is created
+2024-05-18 00:15:33 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:15:33 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:15:33 INFO  CubeState:28 - Cube is detected as REGULAR.
+2024-05-18 00:15:33 WARN  CubeState:89 - Cube №5 is regular
+2024-05-18 00:15:33 WARN  CubeFactoryImpl:55 - Regular cube added: Cube[id=5, coordinates=[{x=0,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=63,00}, {x=0,00, y=63,00, z=0,00}, {x=0,00, y=63,00, z=63,00}, {x=63,00, y=0,00, z=0,00}, {x=63,00, y=0,00, z=63,00}, {x=63,00, y=63,00, z=0,00}, {x=63,00, y=63,00, z=63,00}], state=REGULAR]
+2024-05-18 00:16:53 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:16:53 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:16:53 WARN  CubeState:31 - Cube is detected as INVALID.
+2024-05-18 00:16:53 WARN  CubeState:89 - Cube №1 is invalid
+2024-05-18 00:16:53 INFO  Cube:29 - Cube with id 1 and coordinates [{x=0,00, y=0,00, z=0,00}, {x=0,00, y=40,00, z=0,00}, {x=40,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=40,00}, {x=4,00, y=40,00, z=0,00}, {x=40,00, y=0,00, z=40,00}, {x=40,00, y=30,00, z=40,00}, {x=0,00, y=40,00, z=11,00}] is created
+2024-05-18 00:16:53 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:16:53 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:16:53 WARN  CubeState:31 - Cube is detected as INVALID.
+2024-05-18 00:16:53 WARN  CubeState:89 - Cube №1 is invalid
+2024-05-18 00:16:53 WARN  CubeFactoryImpl:57 - Cube is not regular, skipping: Cube[id=1, coordinates=[{x=0,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=40,00}, {x=0,00, y=40,00, z=0,00}, {x=0,00, y=40,00, z=11,00}, {x=4,00, y=40,00, z=0,00}, {x=40,00, y=0,00, z=0,00}, {x=40,00, y=0,00, z=40,00}, {x=40,00, y=30,00, z=40,00}], state=INVALID]
+2024-05-18 00:16:53 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:16:53 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:16:53 WARN  CubeState:31 - Cube is detected as INVALID.
+2024-05-18 00:16:53 WARN  CubeState:89 - Cube №2 is invalid
+2024-05-18 00:16:53 INFO  Cube:29 - Cube with id 2 and coordinates [{x=15,00, y=15,00, z=0,00}, {x=0,00, y=15,00, z=0,00}, {x=15,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=15,00}, {x=15,00, y=15,00, z=15,00}, {x=15,00, y=0,00, z=15,00}, {x=15,00, y=15,00, z=15,00}, {x=15,00, y=15,00, z=15,00}] is created
+2024-05-18 00:16:53 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:16:53 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:16:53 WARN  CubeState:31 - Cube is detected as INVALID.
+2024-05-18 00:16:53 WARN  CubeState:89 - Cube №2 is invalid
+2024-05-18 00:16:53 WARN  CubeFactoryImpl:57 - Cube is not regular, skipping: Cube[id=2, coordinates=[{x=0,00, y=0,00, z=15,00}, {x=0,00, y=15,00, z=0,00}, {x=15,00, y=0,00, z=0,00}, {x=15,00, y=0,00, z=15,00}, {x=15,00, y=15,00, z=0,00}, {x=15,00, y=15,00, z=15,00}, {x=15,00, y=15,00, z=15,00}, {x=15,00, y=15,00, z=15,00}], state=INVALID]
+2024-05-18 00:16:53 ERROR CubeFactoryImpl:85 - Error parsing coordinates for line: 0,22.0,L
+java.lang.NumberFormatException: For input string: "L"
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:792)
+	at edu.patterns.shapes.creator.impl.CubeFactoryImpl.parseCoordinates(CubeFactoryImpl.java:82)
+	at edu.patterns.shapes.creator.impl.CubeFactoryImpl.lambda$createCubesFromFile$0(CubeFactoryImpl.java:50)
+	at java.base/java.nio.file.FileChannelLinesSpliterator.forEachRemaining(FileChannelLinesSpliterator.java:130)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762)
+	at edu.patterns.shapes.creator.impl.CubeFactoryImpl.createCubesFromFile(CubeFactoryImpl.java:46)
+	at CubeFactoryImplTest.testCreateInvalidCubeFromFile(CubeFactoryImplTest.java:33)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:232)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55)
+2024-05-18 00:16:53 ERROR CubeFactoryImpl:85 - Error parsing coordinates for line: 22.0,22.0,L
+java.lang.NumberFormatException: For input string: "L"
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:792)
+	at edu.patterns.shapes.creator.impl.CubeFactoryImpl.parseCoordinates(CubeFactoryImpl.java:82)
+	at edu.patterns.shapes.creator.impl.CubeFactoryImpl.lambda$createCubesFromFile$0(CubeFactoryImpl.java:50)
+	at java.base/java.nio.file.FileChannelLinesSpliterator.forEachRemaining(FileChannelLinesSpliterator.java:130)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762)
+	at edu.patterns.shapes.creator.impl.CubeFactoryImpl.createCubesFromFile(CubeFactoryImpl.java:46)
+	at CubeFactoryImplTest.testCreateInvalidCubeFromFile(CubeFactoryImplTest.java:33)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:232)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55)
+2024-05-18 00:16:53 ERROR CubeFactoryImpl:85 - Error parsing coordinates for line: L,22.0,22.0
+java.lang.NumberFormatException: For input string: "L"
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:792)
+	at edu.patterns.shapes.creator.impl.CubeFactoryImpl.parseCoordinates(CubeFactoryImpl.java:80)
+	at edu.patterns.shapes.creator.impl.CubeFactoryImpl.lambda$createCubesFromFile$0(CubeFactoryImpl.java:50)
+	at java.base/java.nio.file.FileChannelLinesSpliterator.forEachRemaining(FileChannelLinesSpliterator.java:130)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762)
+	at edu.patterns.shapes.creator.impl.CubeFactoryImpl.createCubesFromFile(CubeFactoryImpl.java:46)
+	at CubeFactoryImplTest.testCreateInvalidCubeFromFile(CubeFactoryImplTest.java:33)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:232)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55)
+2024-05-18 00:16:53 ERROR CubeFactoryImpl:64 - Error parsing line: 0,0,0;0,22.0,L;22.0,0,0;0,0,22.0;22.0,22.0,L;22.0,0,22.0;22.0,22.0,22.0;L,22.0,22.0
+java.lang.NullPointerException
+	at java.base/java.util.Comparator.lambda$comparingDouble$8dcf42ea$1(Comparator.java:536)
+	at java.base/java.util.Comparator.lambda$thenComparing$36697e65$1(Comparator.java:220)
+	at java.base/java.util.Comparator.lambda$thenComparing$36697e65$1(Comparator.java:220)
+	at java.base/java.util.TimSort.countRunAndMakeAscending(TimSort.java:355)
+	at java.base/java.util.TimSort.sort(TimSort.java:220)
+	at java.base/java.util.Arrays.sort(Arrays.java:1308)
+	at java.base/java.util.stream.SortedOps$SizedRefSortingSink.end(SortedOps.java:353)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:510)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:575)
+	at java.base/java.util.stream.AbstractPipeline.evaluateToArrayNode(AbstractPipeline.java:260)
+	at java.base/java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:616)
+	at edu.patterns.shapes.service.CubeCoordinateSorter.sortCoordinates(CubeCoordinateSorter.java:14)
+	at edu.patterns.shapes.model.Cube.<init>(Cube.java:25)
+	at edu.patterns.shapes.creator.impl.CubeFactoryImpl.createCube(CubeFactoryImpl.java:23)
+	at edu.patterns.shapes.creator.impl.CubeFactoryImpl.lambda$createCubesFromFile$0(CubeFactoryImpl.java:51)
+	at java.base/java.nio.file.FileChannelLinesSpliterator.forEachRemaining(FileChannelLinesSpliterator.java:130)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762)
+	at edu.patterns.shapes.creator.impl.CubeFactoryImpl.createCubesFromFile(CubeFactoryImpl.java:46)
+	at CubeFactoryImplTest.testCreateInvalidCubeFromFile(CubeFactoryImplTest.java:33)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:232)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55)
+2024-05-18 00:16:53 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:16:53 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:16:53 WARN  CubeState:31 - Cube is detected as INVALID.
+2024-05-18 00:16:53 WARN  CubeState:89 - Cube №3 is invalid
+2024-05-18 00:16:53 INFO  Cube:29 - Cube with id 3 and coordinates [{x=0,00, y=49,00, z=0,00}, {x=0,00, y=3,00, z=0,00}, {x=3,00, y=0,00, z=0,00}, {x=0,00, y=-23,00, z=3,00}, {x=3,00, y=3,00, z=0,00}, {x=3,00, y=0,00, z=3,00}, {x=3,00, y=3,00, z=3,00}, {x=0,00, y=3,00, z=3,00}] is created
+2024-05-18 00:16:53 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:16:53 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:16:53 WARN  CubeState:31 - Cube is detected as INVALID.
+2024-05-18 00:16:53 WARN  CubeState:89 - Cube №3 is invalid
+2024-05-18 00:16:53 WARN  CubeFactoryImpl:57 - Cube is not regular, skipping: Cube[id=3, coordinates=[{x=0,00, y=-23,00, z=3,00}, {x=0,00, y=3,00, z=0,00}, {x=0,00, y=3,00, z=3,00}, {x=0,00, y=49,00, z=0,00}, {x=3,00, y=0,00, z=0,00}, {x=3,00, y=0,00, z=3,00}, {x=3,00, y=3,00, z=0,00}, {x=3,00, y=3,00, z=3,00}], state=INVALID]
+2024-05-18 00:16:53 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:16:53 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:16:53 WARN  CubeState:31 - Cube is detected as INVALID.
+2024-05-18 00:16:53 WARN  CubeState:89 - Cube №4 is invalid
+2024-05-18 00:16:53 INFO  Cube:29 - Cube with id 4 and coordinates [{x=1,00, y=0,00, z=0,00}, {x=0,00, y=63,00, z=0,00}, {x=63,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=63,00}, {x=63,00, y=63,00, z=0,00}, {x=63,00, y=1,00, z=63,00}, {x=63,00, y=63,00, z=63,00}, {x=0,00, y=63,00, z=63,00}] is created
+2024-05-18 00:16:53 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:16:53 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:16:53 WARN  CubeState:31 - Cube is detected as INVALID.
+2024-05-18 00:16:53 WARN  CubeState:89 - Cube №4 is invalid
+2024-05-18 00:16:53 WARN  CubeFactoryImpl:57 - Cube is not regular, skipping: Cube[id=4, coordinates=[{x=0,00, y=0,00, z=63,00}, {x=0,00, y=63,00, z=0,00}, {x=0,00, y=63,00, z=63,00}, {x=1,00, y=0,00, z=0,00}, {x=63,00, y=0,00, z=0,00}, {x=63,00, y=1,00, z=63,00}, {x=63,00, y=63,00, z=0,00}, {x=63,00, y=63,00, z=63,00}], state=INVALID]
+2024-05-18 00:17:16 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:17:16 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:17:16 WARN  CubeState:31 - Cube is detected as INVALID.
+2024-05-18 00:17:16 WARN  CubeState:89 - Cube №1 is invalid
+2024-05-18 00:17:16 INFO  Cube:29 - Cube with id 1 and coordinates [{x=0,00, y=0,00, z=0,00}, {x=0,00, y=40,00, z=0,00}, {x=40,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=40,00}, {x=4,00, y=40,00, z=0,00}, {x=40,00, y=0,00, z=40,00}, {x=40,00, y=30,00, z=40,00}, {x=0,00, y=40,00, z=11,00}] is created
+2024-05-18 00:17:16 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:17:16 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:17:16 WARN  CubeState:31 - Cube is detected as INVALID.
+2024-05-18 00:17:16 WARN  CubeState:89 - Cube №1 is invalid
+2024-05-18 00:17:16 WARN  CubeFactoryImpl:57 - Cube is not regular, skipping: Cube[id=1, coordinates=[{x=0,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=40,00}, {x=0,00, y=40,00, z=0,00}, {x=0,00, y=40,00, z=11,00}, {x=4,00, y=40,00, z=0,00}, {x=40,00, y=0,00, z=0,00}, {x=40,00, y=0,00, z=40,00}, {x=40,00, y=30,00, z=40,00}], state=INVALID]
+2024-05-18 00:17:16 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:17:16 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:17:16 WARN  CubeState:31 - Cube is detected as INVALID.
+2024-05-18 00:17:16 WARN  CubeState:89 - Cube №2 is invalid
+2024-05-18 00:17:16 INFO  Cube:29 - Cube with id 2 and coordinates [{x=15,00, y=15,00, z=0,00}, {x=0,00, y=15,00, z=0,00}, {x=15,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=15,00}, {x=15,00, y=15,00, z=15,00}, {x=15,00, y=0,00, z=15,00}, {x=15,00, y=15,00, z=15,00}, {x=15,00, y=15,00, z=15,00}] is created
+2024-05-18 00:17:16 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:17:16 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:17:16 WARN  CubeState:31 - Cube is detected as INVALID.
+2024-05-18 00:17:16 WARN  CubeState:89 - Cube №2 is invalid
+2024-05-18 00:17:16 WARN  CubeFactoryImpl:57 - Cube is not regular, skipping: Cube[id=2, coordinates=[{x=0,00, y=0,00, z=15,00}, {x=0,00, y=15,00, z=0,00}, {x=15,00, y=0,00, z=0,00}, {x=15,00, y=0,00, z=15,00}, {x=15,00, y=15,00, z=0,00}, {x=15,00, y=15,00, z=15,00}, {x=15,00, y=15,00, z=15,00}, {x=15,00, y=15,00, z=15,00}], state=INVALID]
+2024-05-18 00:17:16 ERROR CubeFactoryImpl:85 - Error parsing coordinates for line: 0,22.0,L
+java.lang.NumberFormatException: For input string: "L"
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:792)
+	at edu.patterns.shapes.creator.impl.CubeFactoryImpl.parseCoordinates(CubeFactoryImpl.java:82)
+	at edu.patterns.shapes.creator.impl.CubeFactoryImpl.lambda$createCubesFromFile$0(CubeFactoryImpl.java:50)
+	at java.base/java.nio.file.FileChannelLinesSpliterator.forEachRemaining(FileChannelLinesSpliterator.java:130)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762)
+	at edu.patterns.shapes.creator.impl.CubeFactoryImpl.createCubesFromFile(CubeFactoryImpl.java:46)
+	at CubeFactoryImplTest.testCreateCubeFromFileWithInvalidData(CubeFactoryImplTest.java:43)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:232)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55)
+2024-05-18 00:17:16 ERROR CubeFactoryImpl:85 - Error parsing coordinates for line: 22.0,22.0,L
+java.lang.NumberFormatException: For input string: "L"
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:792)
+	at edu.patterns.shapes.creator.impl.CubeFactoryImpl.parseCoordinates(CubeFactoryImpl.java:82)
+	at edu.patterns.shapes.creator.impl.CubeFactoryImpl.lambda$createCubesFromFile$0(CubeFactoryImpl.java:50)
+	at java.base/java.nio.file.FileChannelLinesSpliterator.forEachRemaining(FileChannelLinesSpliterator.java:130)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762)
+	at edu.patterns.shapes.creator.impl.CubeFactoryImpl.createCubesFromFile(CubeFactoryImpl.java:46)
+	at CubeFactoryImplTest.testCreateCubeFromFileWithInvalidData(CubeFactoryImplTest.java:43)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:232)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55)
+2024-05-18 00:17:16 ERROR CubeFactoryImpl:85 - Error parsing coordinates for line: L,22.0,22.0
+java.lang.NumberFormatException: For input string: "L"
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:792)
+	at edu.patterns.shapes.creator.impl.CubeFactoryImpl.parseCoordinates(CubeFactoryImpl.java:80)
+	at edu.patterns.shapes.creator.impl.CubeFactoryImpl.lambda$createCubesFromFile$0(CubeFactoryImpl.java:50)
+	at java.base/java.nio.file.FileChannelLinesSpliterator.forEachRemaining(FileChannelLinesSpliterator.java:130)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762)
+	at edu.patterns.shapes.creator.impl.CubeFactoryImpl.createCubesFromFile(CubeFactoryImpl.java:46)
+	at CubeFactoryImplTest.testCreateCubeFromFileWithInvalidData(CubeFactoryImplTest.java:43)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:232)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55)
+2024-05-18 00:17:16 ERROR CubeFactoryImpl:64 - Error parsing line: 0,0,0;0,22.0,L;22.0,0,0;0,0,22.0;22.0,22.0,L;22.0,0,22.0;22.0,22.0,22.0;L,22.0,22.0
+java.lang.NullPointerException
+	at java.base/java.util.Comparator.lambda$comparingDouble$8dcf42ea$1(Comparator.java:536)
+	at java.base/java.util.Comparator.lambda$thenComparing$36697e65$1(Comparator.java:220)
+	at java.base/java.util.Comparator.lambda$thenComparing$36697e65$1(Comparator.java:220)
+	at java.base/java.util.TimSort.countRunAndMakeAscending(TimSort.java:355)
+	at java.base/java.util.TimSort.sort(TimSort.java:220)
+	at java.base/java.util.Arrays.sort(Arrays.java:1308)
+	at java.base/java.util.stream.SortedOps$SizedRefSortingSink.end(SortedOps.java:353)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:510)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:575)
+	at java.base/java.util.stream.AbstractPipeline.evaluateToArrayNode(AbstractPipeline.java:260)
+	at java.base/java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:616)
+	at edu.patterns.shapes.service.CubeCoordinateSorter.sortCoordinates(CubeCoordinateSorter.java:14)
+	at edu.patterns.shapes.model.Cube.<init>(Cube.java:25)
+	at edu.patterns.shapes.creator.impl.CubeFactoryImpl.createCube(CubeFactoryImpl.java:23)
+	at edu.patterns.shapes.creator.impl.CubeFactoryImpl.lambda$createCubesFromFile$0(CubeFactoryImpl.java:51)
+	at java.base/java.nio.file.FileChannelLinesSpliterator.forEachRemaining(FileChannelLinesSpliterator.java:130)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762)
+	at edu.patterns.shapes.creator.impl.CubeFactoryImpl.createCubesFromFile(CubeFactoryImpl.java:46)
+	at CubeFactoryImplTest.testCreateCubeFromFileWithInvalidData(CubeFactoryImplTest.java:43)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:232)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55)
+2024-05-18 00:17:16 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:17:16 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:17:16 WARN  CubeState:31 - Cube is detected as INVALID.
+2024-05-18 00:17:16 WARN  CubeState:89 - Cube №3 is invalid
+2024-05-18 00:17:16 INFO  Cube:29 - Cube with id 3 and coordinates [{x=0,00, y=49,00, z=0,00}, {x=0,00, y=3,00, z=0,00}, {x=3,00, y=0,00, z=0,00}, {x=0,00, y=-23,00, z=3,00}, {x=3,00, y=3,00, z=0,00}, {x=3,00, y=0,00, z=3,00}, {x=3,00, y=3,00, z=3,00}, {x=0,00, y=3,00, z=3,00}] is created
+2024-05-18 00:17:16 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:17:16 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:17:16 WARN  CubeState:31 - Cube is detected as INVALID.
+2024-05-18 00:17:16 WARN  CubeState:89 - Cube №3 is invalid
+2024-05-18 00:17:16 WARN  CubeFactoryImpl:57 - Cube is not regular, skipping: Cube[id=3, coordinates=[{x=0,00, y=-23,00, z=3,00}, {x=0,00, y=3,00, z=0,00}, {x=0,00, y=3,00, z=3,00}, {x=0,00, y=49,00, z=0,00}, {x=3,00, y=0,00, z=0,00}, {x=3,00, y=0,00, z=3,00}, {x=3,00, y=3,00, z=0,00}, {x=3,00, y=3,00, z=3,00}], state=INVALID]
+2024-05-18 00:17:16 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:17:16 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:17:16 WARN  CubeState:31 - Cube is detected as INVALID.
+2024-05-18 00:17:16 WARN  CubeState:89 - Cube №4 is invalid
+2024-05-18 00:17:16 INFO  Cube:29 - Cube with id 4 and coordinates [{x=1,00, y=0,00, z=0,00}, {x=0,00, y=63,00, z=0,00}, {x=63,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=63,00}, {x=63,00, y=63,00, z=0,00}, {x=63,00, y=1,00, z=63,00}, {x=63,00, y=63,00, z=63,00}, {x=0,00, y=63,00, z=63,00}] is created
+2024-05-18 00:17:16 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:17:16 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:17:16 WARN  CubeState:31 - Cube is detected as INVALID.
+2024-05-18 00:17:16 WARN  CubeState:89 - Cube №4 is invalid
+2024-05-18 00:17:16 WARN  CubeFactoryImpl:57 - Cube is not regular, skipping: Cube[id=4, coordinates=[{x=0,00, y=0,00, z=63,00}, {x=0,00, y=63,00, z=0,00}, {x=0,00, y=63,00, z=63,00}, {x=1,00, y=0,00, z=0,00}, {x=63,00, y=0,00, z=0,00}, {x=63,00, y=1,00, z=63,00}, {x=63,00, y=63,00, z=0,00}, {x=63,00, y=63,00, z=63,00}], state=INVALID]
+2024-05-18 00:19:28 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:19:28 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:19:28 INFO  CubeState:28 - Cube is detected as REGULAR.
+2024-05-18 00:19:28 WARN  CubeState:89 - Cube №1 is regular
+2024-05-18 00:19:28 INFO  Cube:29 - Cube with id 1 and coordinates [{x=0,00, y=0,00, z=0,00}, {x=0,00, y=40,00, z=0,00}, {x=40,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=40,00}, {x=40,00, y=40,00, z=0,00}, {x=40,00, y=0,00, z=40,00}, {x=40,00, y=40,00, z=40,00}, {x=0,00, y=40,00, z=40,00}] is created
+2024-05-18 00:19:28 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:19:28 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:19:28 INFO  CubeState:28 - Cube is detected as REGULAR.
+2024-05-18 00:19:28 WARN  CubeState:89 - Cube №1 is regular
+2024-05-18 00:19:28 WARN  CubeFactoryImpl:55 - Regular cube added: Cube[id=1, coordinates=[{x=0,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=40,00}, {x=0,00, y=40,00, z=0,00}, {x=0,00, y=40,00, z=40,00}, {x=40,00, y=0,00, z=0,00}, {x=40,00, y=0,00, z=40,00}, {x=40,00, y=40,00, z=0,00}, {x=40,00, y=40,00, z=40,00}], state=REGULAR]
+2024-05-18 00:19:28 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:19:28 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:19:28 INFO  CubeState:28 - Cube is detected as REGULAR.
+2024-05-18 00:19:28 WARN  CubeState:89 - Cube №2 is regular
+2024-05-18 00:19:28 INFO  Cube:29 - Cube with id 2 and coordinates [{x=0,00, y=0,00, z=0,00}, {x=0,00, y=15,00, z=0,00}, {x=15,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=15,00}, {x=15,00, y=15,00, z=0,00}, {x=15,00, y=0,00, z=15,00}, {x=15,00, y=15,00, z=15,00}, {x=0,00, y=15,00, z=15,00}] is created
+2024-05-18 00:19:28 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:19:28 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:19:28 INFO  CubeState:28 - Cube is detected as REGULAR.
+2024-05-18 00:19:28 WARN  CubeState:89 - Cube №2 is regular
+2024-05-18 00:19:28 WARN  CubeFactoryImpl:55 - Regular cube added: Cube[id=2, coordinates=[{x=0,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=15,00}, {x=0,00, y=15,00, z=0,00}, {x=0,00, y=15,00, z=15,00}, {x=15,00, y=0,00, z=0,00}, {x=15,00, y=0,00, z=15,00}, {x=15,00, y=15,00, z=0,00}, {x=15,00, y=15,00, z=15,00}], state=REGULAR]
+2024-05-18 00:19:28 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:19:28 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:19:28 INFO  CubeState:28 - Cube is detected as REGULAR.
+2024-05-18 00:19:28 WARN  CubeState:89 - Cube №3 is regular
+2024-05-18 00:19:28 INFO  Cube:29 - Cube with id 3 and coordinates [{x=0,00, y=0,00, z=0,00}, {x=0,00, y=22,00, z=0,00}, {x=22,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=22,00}, {x=22,00, y=22,00, z=0,00}, {x=22,00, y=0,00, z=22,00}, {x=22,00, y=22,00, z=22,00}, {x=0,00, y=22,00, z=22,00}] is created
+2024-05-18 00:19:28 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:19:28 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:19:28 INFO  CubeState:28 - Cube is detected as REGULAR.
+2024-05-18 00:19:28 WARN  CubeState:89 - Cube №3 is regular
+2024-05-18 00:19:28 WARN  CubeFactoryImpl:55 - Regular cube added: Cube[id=3, coordinates=[{x=0,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=22,00}, {x=0,00, y=22,00, z=0,00}, {x=0,00, y=22,00, z=22,00}, {x=22,00, y=0,00, z=0,00}, {x=22,00, y=0,00, z=22,00}, {x=22,00, y=22,00, z=0,00}, {x=22,00, y=22,00, z=22,00}], state=REGULAR]
+2024-05-18 00:19:28 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:19:28 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:19:28 INFO  CubeState:28 - Cube is detected as REGULAR.
+2024-05-18 00:19:28 WARN  CubeState:89 - Cube №4 is regular
+2024-05-18 00:19:28 INFO  Cube:29 - Cube with id 4 and coordinates [{x=0,00, y=0,00, z=0,00}, {x=0,00, y=3,00, z=0,00}, {x=3,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=3,00}, {x=3,00, y=3,00, z=0,00}, {x=3,00, y=0,00, z=3,00}, {x=3,00, y=3,00, z=3,00}, {x=0,00, y=3,00, z=3,00}] is created
+2024-05-18 00:19:28 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:19:28 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:19:28 INFO  CubeState:28 - Cube is detected as REGULAR.
+2024-05-18 00:19:28 WARN  CubeState:89 - Cube №4 is regular
+2024-05-18 00:19:28 WARN  CubeFactoryImpl:55 - Regular cube added: Cube[id=4, coordinates=[{x=0,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=3,00}, {x=0,00, y=3,00, z=0,00}, {x=0,00, y=3,00, z=3,00}, {x=3,00, y=0,00, z=0,00}, {x=3,00, y=0,00, z=3,00}, {x=3,00, y=3,00, z=0,00}, {x=3,00, y=3,00, z=3,00}], state=REGULAR]
+2024-05-18 00:19:28 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:19:28 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:19:28 INFO  CubeState:28 - Cube is detected as REGULAR.
+2024-05-18 00:19:28 WARN  CubeState:89 - Cube №5 is regular
+2024-05-18 00:19:28 INFO  Cube:29 - Cube with id 5 and coordinates [{x=0,00, y=0,00, z=0,00}, {x=0,00, y=63,00, z=0,00}, {x=63,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=63,00}, {x=63,00, y=63,00, z=0,00}, {x=63,00, y=0,00, z=63,00}, {x=63,00, y=63,00, z=63,00}, {x=0,00, y=63,00, z=63,00}] is created
+2024-05-18 00:19:28 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:19:28 INFO  CubeState:61 - The cube has a valid set of coordinates.
+2024-05-18 00:19:28 INFO  CubeState:28 - Cube is detected as REGULAR.
+2024-05-18 00:19:28 WARN  CubeState:89 - Cube №5 is regular
+2024-05-18 00:19:28 WARN  CubeFactoryImpl:55 - Regular cube added: Cube[id=5, coordinates=[{x=0,00, y=0,00, z=0,00}, {x=0,00, y=0,00, z=63,00}, {x=0,00, y=63,00, z=0,00}, {x=0,00, y=63,00, z=63,00}, {x=63,00, y=0,00, z=0,00}, {x=63,00, y=0,00, z=63,00}, {x=63,00, y=63,00, z=0,00}, {x=63,00, y=63,00, z=63,00}], state=REGULAR]
+2024-05-18 00:19:28 INFO  CubeCoordinateService:28 - Vector between {x=0,00, y=0,00, z=0,00} and {x=0,00, y=0,00, z=40,00} is of length 40,000000
+2024-05-18 00:19:28 INFO  CubeCoordinateService:28 - Vector between {x=0,00, y=0,00, z=0,00} and {x=0,00, y=0,00, z=40,00} is of length 40,000000
+2024-05-18 00:19:28 INFO  CubeService:11 - Cube 1's surface area is 9600,00
+2024-05-18 00:19:28 INFO  CubeCoordinateService:28 - Vector between {x=0,00, y=0,00, z=0,00} and {x=0,00, y=0,00, z=15,00} is of length 15,000000
+2024-05-18 00:19:28 INFO  CubeCoordinateService:28 - Vector between {x=0,00, y=0,00, z=0,00} and {x=0,00, y=0,00, z=15,00} is of length 15,000000
+2024-05-18 00:19:28 INFO  CubeService:11 - Cube 2's surface area is 1350,00
+2024-05-18 00:19:28 INFO  CubeCoordinateService:28 - Vector between {x=0,00, y=0,00, z=0,00} and {x=0,00, y=0,00, z=22,00} is of length 22,000000
+2024-05-18 00:19:28 INFO  CubeCoordinateService:28 - Vector between {x=0,00, y=0,00, z=0,00} and {x=0,00, y=0,00, z=22,00} is of length 22,000000
+2024-05-18 00:19:28 INFO  CubeService:11 - Cube 3's surface area is 2904,00
+2024-05-18 00:19:28 INFO  CubeCoordinateService:28 - Vector between {x=0,00, y=0,00, z=0,00} and {x=0,00, y=0,00, z=3,00} is of length 3,000000
+2024-05-18 00:19:28 INFO  CubeCoordinateService:28 - Vector between {x=0,00, y=0,00, z=0,00} and {x=0,00, y=0,00, z=3,00} is of length 3,000000
+2024-05-18 00:19:28 INFO  CubeService:11 - Cube 4's surface area is 54,00
+2024-05-18 00:19:28 INFO  CubeCoordinateService:28 - Vector between {x=0,00, y=0,00, z=0,00} and {x=0,00, y=0,00, z=63,00} is of length 63,000000
+2024-05-18 00:19:28 INFO  CubeCoordinateService:28 - Vector between {x=0,00, y=0,00, z=0,00} and {x=0,00, y=0,00, z=63,00} is of length 63,000000
+2024-05-18 00:19:28 INFO  CubeService:11 - Cube 5's surface area is 23814,00
